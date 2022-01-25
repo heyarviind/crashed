@@ -1,0 +1,24 @@
+{
+  "name": "crashed",
+  "version": "1.0.1",
+  "description": "Send logs and notifications directly to your Discord Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heyarviind/crashed.git"
+  },
+  "keywords": [
+    "logger",
+    "remote",
+    "logging"
+  ],
+  "author": "Arvind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyarviind/crashed/issues"
+  },
+  "homepage": "https://github.com/heyarviind/crashed#readme"
+}
